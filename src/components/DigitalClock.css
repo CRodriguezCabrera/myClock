@@ -1,0 +1,14 @@
+.digital__clock{
+    color: rgb(71, 226, 231);
+    font-size: 30px;
+    background: rgba(255, 255, 255, 0.363);
+    border-radius: 5px;
+    height: 60px;
+    width: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke: 0.8px black;
+    
+
+}

@@ -1,0 +1,12 @@
+.countDown{
+    color: rgb(71, 226, 231);
+    font-size: 22px;
+    background: rgba(255, 255, 255, 0.363);
+    border-radius: 5px;
+    height: 55px;
+    width: 310px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke: 0.7px black;
+}

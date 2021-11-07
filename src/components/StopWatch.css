@@ -1,0 +1,26 @@
+.stopWatch{
+    color: rgb(71, 226, 231);
+    font-size:50px;
+    background: rgba(255, 255, 255, 0.363);
+    border-radius: 5px;
+    height: 120px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke: 0.7px black;
+}
+
+.startbutton{
+    font-size: 20px;
+}
+.stopbutton{
+    font-size: 20px;
+}
+.resetbutton{
+    font-size: 20px;
+}
+.restartbutton{
+    font-size: 20px;
+}
