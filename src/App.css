@@ -1,5 +1,7 @@
 *{
 margin: 0px ;
+max-height: 700px;
+
 }
 .App {
   text-align: center;
@@ -11,7 +13,34 @@ margin: 0px ;
   background: rgb(255,255,255);
   background: radial-gradient(circle, rgba(255,255,255,0.8547794117647058) 0%, rgba(97,98,159,1) 1%, rgba(0,0,0,1) 57%);
   height: 1000px;
-  margin-top:0px;
+  margin-top:1px;
   gap:30px;
 }
+.header__route{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background-color: black;
 
+  gap: 20px;
+
+}
+.header__route a{
+  text-decoration: none;
+  letter-spacing: 2px;
+  font-size: 30px;
+  padding: 5px;
+  background: rgb(107,237,255);
+  background: linear-gradient(51deg, rgba(107,237,255,1) 0%, rgba(57,57,57,1) 27%);
+  border: 1px solid rgb(107,237,255); 
+  border-radius: 5px;
+  color: rgb(181, 221, 226);
+  
+  
+}
+/* .clockbutton{
+  padding-top: 30px;
+}
+ */
